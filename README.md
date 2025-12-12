@@ -13,4 +13,5 @@ I am building my skills step by step, using analogies from microbiology and lab 
 - Strengthen my understanding of R basics  
 - Document my learning journey for reproducibility  
 - Build confidence in programming through patient, incremental practice
+Updated README with goals and contents
 
